@@ -1,7 +1,7 @@
 """ post_ad_aliasing.py
 
 Contains the aliasing example used in my post:
-https://thingsdaq.org/2022/01/18/analog-to-digital-conversion/
+https://thingsdaq.org/2022/01/17/analog-to-digital-conversion/
 
 You can use this to plot a sine wave and observe the effect of different
 sampling frequencies in the resulting sampled signal.

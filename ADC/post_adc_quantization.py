@@ -1,7 +1,7 @@
 """ post_ad_quantization.py
 
 Contains the quantization example used in my post:
-https://thingsdaq.org/2022/01/18/analog-to-digital-conversion/
+https://thingsdaq.org/2022/01/17/analog-to-digital-conversion/
 
 You can use this to plot the transfer function of an ADC with different bit
 resolutions.

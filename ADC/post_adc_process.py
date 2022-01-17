@@ -1,7 +1,7 @@
 """ post_ad_process.py
 
 Contains the ADC steps used in my post:
-https://thingsdaq.org/2022/01/18/analog-to-digital-conversion/
+https://thingsdaq.org/2022/01/17/analog-to-digital-conversion/
 
 You can use this to plot an arbitrary continuous function composed of
 multiple sine waves and the outcome of each step in the ADC process.
