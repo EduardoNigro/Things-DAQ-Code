@@ -1,1 +1,3 @@
-/things-daq.code-workspace
+things-daq.code-workspace
+ADC/post_adc.code-workspace
+ADC/__pycache__/
