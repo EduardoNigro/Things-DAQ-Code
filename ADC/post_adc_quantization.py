@@ -9,7 +9,6 @@ resolutions.
 """
 import numpy as np
 import matplotlib.pyplot as plt
-from matplotlib.colors import LinearSegmentedColormap
 
 # Creating plotting function
 def plot_tf(x, xtick=None, xlabel=None, ylabel=None):
