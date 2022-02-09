@@ -9,6 +9,10 @@ Setup:
     Connect one leg of the LED (with a series resistor of 300 to 1000 Ohm)
     to GPIO 17 and the other leg to GND.
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-01-02
+
 """
 import time
 import numpy as np

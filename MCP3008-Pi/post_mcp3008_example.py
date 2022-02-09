@@ -9,6 +9,10 @@ to the measured pot. voltage.
 For more details go to my post:
 https://thingsdaq.org/2022/01/24/mcp3008-with-raspberry-pi/
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-01-24
+
 """
 import time
 import numpy as np

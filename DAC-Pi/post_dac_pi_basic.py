@@ -5,6 +5,10 @@ https://thingsdaq.org/2022/02/08/dac-with-raspberry-pi/
 
 You can use this to explore the behavior of a DAC using a Raspberry Pi.
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-02-08
+
 """
 import time
 import numpy as np

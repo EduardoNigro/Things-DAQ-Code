@@ -5,6 +5,10 @@ https://thingsdaq.org/2022/02/02/digital-to-analog-conversion/
 
 You can use this to simulate the step response of a simple low-pass filter DAC.
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-02-02
+
 """
 import numpy as np
 import matplotlib.pyplot as plt

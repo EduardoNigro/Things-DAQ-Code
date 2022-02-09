@@ -4,6 +4,10 @@ Contains a low-pass digital filter.
 
 You can use this to understand the effects of a Butterworth filter.
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-01-17
+
 """
 import numpy as np
 import matplotlib.pyplot as plt

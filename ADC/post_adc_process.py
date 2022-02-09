@@ -6,6 +6,10 @@ https://thingsdaq.org/2022/01/17/analog-to-digital-conversion/
 You can use this to plot an arbitrary continuous function composed of
 multiple sine waves and the outcome of each step in the ADC process.
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-01-17
+
 """
 import numpy as np
 import matplotlib.pyplot as plt

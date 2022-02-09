@@ -6,6 +6,10 @@ https://thingsdaq.org/2022/01/17/analog-to-digital-conversion/
 You can use this to plot the transfer function of an ADC with different bit
 resolutions.
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-01-17
+
 """
 import numpy as np
 import matplotlib.pyplot as plt

@@ -7,6 +7,10 @@ in my post: https://thingsdaq.org/2022/01/24/mcp3008-with-raspberry-pi/
 
 Note: Use the utils.py module located in the same folder as this file.
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-01-24
+
 """
 import time
 import numpy as np

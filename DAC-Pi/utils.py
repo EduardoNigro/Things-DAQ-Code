@@ -7,6 +7,7 @@ interactive graphs and because it runs better on Raspberry Pi Linux.
 Author: Eduardo Nigro
     rev 0.0.6
     2022-01-24
+    
 """
 import numpy as np
 import plotly.io as pio

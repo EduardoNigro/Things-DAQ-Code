@@ -5,6 +5,10 @@ https://thingsdaq.org/2022/01/02/prescribed-pwm-duty-cycle/
 
 I used this to create the graph on the post featured image!
 
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-01-02
+
 """
 import numpy as np
 import matplotlib.pyplot as plt
