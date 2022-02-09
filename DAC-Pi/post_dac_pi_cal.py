@@ -1,7 +1,7 @@
 """ post_dac_pi_cal.py
 
 Contains the modified code to calibrate a PWM-based DAC for Raspberry Pi.
-https://thingsdaq.org/2022/02/09/dac-with-raspberry-pi/
+https://thingsdaq.org/2022/02/08/dac-with-raspberry-pi/
 
 You can use this to calibrate the output of the DAC.
 

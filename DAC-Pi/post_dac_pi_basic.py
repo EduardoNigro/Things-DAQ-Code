@@ -1,7 +1,7 @@
 """ post_dac_pi_basic.py
 
 Contains the basic code for a PWM-based DAC for Raspberry Pi.
-https://thingsdaq.org/2022/02/09/dac-with-raspberry-pi/
+https://thingsdaq.org/2022/02/08/dac-with-raspberry-pi/
 
 You can use this to explore the behavior of a DAC using a Raspberry Pi.
 
