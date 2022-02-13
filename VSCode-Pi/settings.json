@@ -1,0 +1,77 @@
+{
+    // Python
+    "python.defaultInterpreterPath": "/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "/home/pi/python/modules",
+        "/home/pi/.local/lib/python3.7/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/pi/python/modules",
+        "/home/pi/.local/lib/python3.7/site-packages"
+    ],
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.showStartPage": false,
+
+    // Terminal
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.rightClickBehavior": "default",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.inheritEnv": true,
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "/home/pi/python/modules"
+    },
+    
+    // VSCode Workbench
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vs-seti",
+    "workbench.colorCustomizations": {
+        "[Visual Studio Dark]": {
+            "terminal.ansiBrightCyan": "#dddddd",
+            "terminal.ansiGreen": "#6a9955",
+            "terminal.ansiRed": "#CE9178",
+            "terminal.ansiBrightRed": "#df5e2b"
+        }
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+
+    // VSCode Editor
+    "editor.renderLineHighlight": "all",
+    "editor.hover.above": false,
+    "editor.foldingImportsByDefault": false,
+    "editor.detectIndentation": false,
+    "editor.language.bracketPairs": [
+        ["[", "]"],
+        ["(", ")"]
+    ],
+    "editor.tokenColorCustomizations": {
+        "[Visual Studio Dark]": {
+            "functions": "#ffdfbb",
+            "comments": "#6a9955"
+        }
+    },
+
+    // Jupyter Notebook
+    "jupyter.askForKernelRestart": false,
+    "jupyter.jupyterServerType": "local",
+    "jupyter.sendSelectionToInteractiveWindow": true,
+    "jupyter.runStartupCommands": [
+        "import sys",
+        "sys.path.append('/home/pi/python/modules')"
+    ],
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    
+    // Other
+    "git.confirmSync": false,
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 1
+
+}
