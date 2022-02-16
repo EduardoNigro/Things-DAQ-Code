@@ -3,11 +3,11 @@
     "python.defaultInterpreterPath": "/bin/python3",
     "python.autoComplete.extraPaths": [
         "/home/pi/python/modules",
-        "/home/pi/.local/lib/python3.7/site-packages"
+        "/home/pi/.local/lib/python3.9/site-packages"
     ],
     "python.analysis.extraPaths": [
         "/home/pi/python/modules",
-        "/home/pi/.local/lib/python3.7/site-packages"
+        "/home/pi/.local/lib/python3.9/site-packages"
     ],
     "python.terminal.activateEnvironment": true,
     "python.terminal.activateEnvInCurrentTerminal": true,
