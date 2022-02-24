@@ -1,3 +1,16 @@
+""" post_example_functions.py
+
+Contains the basic code for an example on how to use functions.
+https://thingsdaq.org/2022/02/23/classes-vs-functions-in-python/
+
+fitfunctions.py has to be in a folder named modules, which has to in the
+Python path or be the working folder.
+
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-02-23
+
+"""
 from modules.fitfunctions import define_data, fit_data, plot_data
 
 # Defining first data set

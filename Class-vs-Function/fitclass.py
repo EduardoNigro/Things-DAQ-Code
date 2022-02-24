@@ -1,3 +1,16 @@
+""" fitclass.py
+
+Contains the class for the example on how to use a class.
+https://thingsdaq.org/2022/02/23/classes-vs-functions-in-python/
+
+fitfunctions.py has to be in a folder named modules, which has to in the
+Python path or be the working folder.
+
+Author: Eduardo Nigro
+    rev 0.0.1
+    2022-02-23
+
+"""
 import numpy as np
 import plotly.graph_objects as go
 from scipy.stats import linregress
