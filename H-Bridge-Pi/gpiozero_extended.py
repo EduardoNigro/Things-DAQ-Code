@@ -1,6 +1,6 @@
 """ 
 gpiozero_extended.py contains classes that are not implemented in GPIO Zero
-(https://gpiozero.readthedocs.io/en/stable/) or tha could use a different
+(https://gpiozero.readthedocs.io/en/stable/) or that could use a different
 implementation which is more suitable for automation projects.
 
 Author: Eduardo Nigro
