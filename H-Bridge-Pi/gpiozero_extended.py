@@ -5,7 +5,7 @@ implementation which is more suitable for automation projects.
 
 Author: Eduardo Nigro
     rev 0.0.1
-    2021-02-28
+    2021-03-01
 """
 from gpiozero import DigitalOutputDevice, PWMOutputDevice
 

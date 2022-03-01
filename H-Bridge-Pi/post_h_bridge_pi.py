@@ -1,13 +1,13 @@
 """ post_h_bridge_pi.py
 
 Contains the example code to run a DC motor with an H-bridge.
-https://thingsdaq.org/2022/03/02/h-bridge-and-dc-motor-with-raspberry-pi/
+https://thingsdaq.org/2022/03/01/h-bridge-and-dc-motor-with-raspberry-pi/
 
 This program runs a motor with a sinusoidal excitation.
 
 Author: Eduardo Nigro
     rev 0.0.1
-    2022-03-02
+    2022-03-01
 
 """
 # Importing modules and classes
