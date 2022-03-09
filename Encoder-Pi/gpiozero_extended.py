@@ -4,9 +4,10 @@ gpiozero_extended.py contains classes that are not implemented in GPIO Zero
 implementation which is more suitable for automation projects.
 
 Author: Eduardo Nigro
-    rev 0.0.1
-    2021-03-01
+    rev 0.0.2
+    2021-03-09
 """
+import time
 from gpiozero import DigitalOutputDevice, PWMOutputDevice, RotaryEncoder
 
 
@@ -118,6 +119,7 @@ class Motor:
             self._enable2.close()
             self._pwm1.close()
         if self._encoder:
+            time.sleep(1)  # Added this to avoid segmentation fault :(
             self._encoder.close()
 
     @property
