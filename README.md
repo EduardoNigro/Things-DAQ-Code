@@ -7,6 +7,7 @@ This repository contains the Python code used throughout the posts in my blog
 This is a living list and it is updated as posts containing example code are created:
 GitHub Folder | Things DAQ Post
 ------------- | ---------------
+Encoder-Pi | [Encoder with Raspberry Pi](https://thingsdaq.org/2022/03/09/encoder-with-raspberry-pi/)
 H-Bridge-Pi | [H-Bridge and DC Motor with Raspberry Pi](https://thingsdaq.org/2022/03/01/h-bridge-and-dc-motor-with-raspberry-pi/)
 Class-vs-Function | [Classes vs. Functions in Python](https://thingsdaq.org/2022/02/23/classes-vs-functions-in-python/)
 DAC-Pi | [DAC with Rapsberry Pi](https://thingsdaq.org/2022/02/08/dac-with-raspberry-pi/)
