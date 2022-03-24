@@ -3,7 +3,7 @@
 Contains the DAC input-output example from my post:
 https://thingsdaq.org/2022/02/02/digital-to-analog-conversion/
 
-You can use this to simulate the input-output siganl relationship on a simple
+You can use this to simulate the input-output signal relationship on a simple
 low-pass filter DAC.
 
 Author: Eduardo Nigro
