@@ -7,8 +7,9 @@ This repository contains the Python code used throughout the posts in my blog
 This is a living list and it is updated as posts containing example code are created:
 GitHub Folder | Things DAQ Post
 ------------- | ---------------
-Digital-PID | [Digital-PID-Controller](https://thingsdaq.org/2022/04/07/digital-pid-controller/)
-Digital-Filtering | [Digital-Filtering](https://thingsdaq.org/2022/03/23/digital-filtering/)
+Motor-Speed-Control | [Motor Speed Control with Raspberry Pi](https://thingsdaq.org/2022/04/17/motor-speed-control-with-raspberry-pi/)
+Digital-PID | [Digital PID Controller](https://thingsdaq.org/2022/04/07/digital-pid-controller/)
+Digital-Filtering | [Digital Filtering](https://thingsdaq.org/2022/03/23/digital-filtering/)
 DAC-Class | [Python DAC Class](https://thingsdaq.org/2022/03/17/python-dac-class/)
 Encoder-Pi | [Encoder with Raspberry Pi](https://thingsdaq.org/2022/03/09/encoder-with-raspberry-pi/)
 H-Bridge-Pi | [H-Bridge and DC Motor with Raspberry Pi](https://thingsdaq.org/2022/03/01/h-bridge-and-dc-motor-with-raspberry-pi/)
