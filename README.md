@@ -7,6 +7,7 @@ This repository contains the Python code used throughout the posts in my blog
 This is a living list and it is updated as posts containing example code are created:
 GitHub Folder | Things DAQ Post
 ------------- | ---------------
+Motor-Position-Tracking | [DC-Motor-Position-Tracking](https://thingsdaq.org/2022/06/02/dc-motor-position-tracking/)
 Motor-Position-Control | [Motor Position Control with Raspberry Pi](https://thingsdaq.org/2022/05/15/motor-position-control-with-raspberry-pi/)
 Motor-Speed-Control | [Motor Speed Control with Raspberry Pi](https://thingsdaq.org/2022/04/17/motor-speed-control-with-raspberry-pi/)
 Digital-PID | [Digital PID Controller](https://thingsdaq.org/2022/04/07/digital-pid-controller/)
