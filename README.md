@@ -7,6 +7,7 @@ This repository contains the Python code used throughout the posts in my blog
 This is a living list and it is updated as posts containing example code are created:
 GitHub Folder | Things DAQ Post
 ------------- | ---------------
+Temperature-Sensor | [Temperature Sensor with Raspberry Pi](https://thingsdaq.org/2022/10/15/temperature-sensor-with-raspberry-pi/)
 LED-Display | [7-Segment LED Display with Raspberry Pi](https://thingsdaq.org/2022/10/02/7-segment-led-display-with-raspberry-pi/)
 Motor-Characterization | [DC Motor Characterization](https://thingsdaq.org/2022/07/05/dc-motor-characterization-1-of-2/)
 Event-Detection | [Event Detection in Signal Processing](https://thingsdaq.org/2022/06/21/event-detection-in-signal-processing/)
