@@ -71,8 +71,8 @@ while tcurr <= tstop:
     xn.append(x[0])
     yn.append(y[0])
     # Incrementing time step
-    tcurr += Ts0
     tprev = tcurr
+    tcurr += Ts0
 
 # Plotting results
 plot_line(
