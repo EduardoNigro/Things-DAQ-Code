@@ -7,6 +7,7 @@ This repository contains the Python code used throughout the posts in my blog
 This is a living list and it is updated as posts containing example code are created:
 GitHub Folder | Things DAQ Post
 ------------- | ---------------
+Line Sensor | [Line Tracking Sensor for Raspberry Pi](https://thingsdaq.org/2022/12/24/line-tracking-sensor-for-raspberry-pi/)
 Joystick | [Joystick with Raspberry Pi](https://thingsdaq.org/2022/11/24/joystick-with-raspberry-pi/)
 Ultrasonic-Sensor | [Ultrasonic Sensor with Raspberry Pi](https://thingsdaq.org/2022/11/04/ultrasonic-sensor-with-raspberry-pi/)
 Temperature-Sensor | [Temperature Sensor with Raspberry Pi](https://thingsdaq.org/2022/10/15/temperature-sensor-with-raspberry-pi/)
@@ -30,16 +31,26 @@ Prescribed-PWM | [Prescribed PWM duty cycle](https://thingsdaq.org/2022/01/02/pr
 
 
 ## Important note:
-In case the Raspberry Pi doesn't recognize the correct numpy package, you might have to install it:
+I use two plotting libraries in my code examples: ***matplotlib*** and ***plotly***
+
+One way I got them to work with the right ***numpy*** version was running the following
+commands in a Pi terminal:
 
 ```
-sudo pip3 install numpy
+sudo apt update
+```
+```
+sudo apt remove python3-numpy
+```
+```
+sudo apt-get install libatlas-base
+```
+```
+sudo apt install python3-matplotlib
+```
+```
+sudo apt install python3-plotly
 ```
 
-Since that may conflict with the pre-installed version of numpy, you might have to run
-the following installation after installing numpy:
-
-```
-sudo apt-get install libatlas-base-dev
-```
-
+- Installing ***matlplotlib*** will automatically install the right ***numpy*** version.
+- To my understanding, ***libatlas-base*** insures compatiblity with the Pi-based ***numpy*** installation.
