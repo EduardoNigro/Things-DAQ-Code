@@ -7,6 +7,7 @@ This repository contains the Python code used throughout the posts in my blog
 This is a living list and it is updated as posts containing example code are created:
 GitHub Folder | Things DAQ Post
 ------------- | ---------------
+LED Dimmer | [LED Dimmer with Raspberry Pi](https://thingsdaq.org/2023/01/16/led-dimmer-with-raspberry-pi/)
 Curve Fitting | [Curve Fitting with Tangent and Inverse Tangent](https://thingsdaq.org/2022/12/29/curve-fitting-with-tangent-and-inverse-tangent/)
 Line Sensor | [Line Tracking Sensor for Raspberry Pi](https://thingsdaq.org/2022/12/24/line-tracking-sensor-for-raspberry-pi/)
 Joystick | [Joystick with Raspberry Pi](https://thingsdaq.org/2022/11/24/joystick-with-raspberry-pi/)
